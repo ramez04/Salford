@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668163751749",
+    "firebase_url": "https://salford-8c634-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "salford-8c634",
+    "storage_bucket": "salford-8c634.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668163751749:android:781d8543f0bec6349c882c",
+        "android_client_info": {
+          "package_name": "com.example.clean_archi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uZf8xW1bp6ejIxvEF3VlpUCjV75ZrKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
