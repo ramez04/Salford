@@ -1,16 +1,11 @@
-# clean_archi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Salford Flutter
+Courses app took as training in CSC beyond 
+## Description
+- A simple app that uses email & password using Node.js as Authentication
+- All courses are stored in database using Postgres and all backend related data is retrieved using Node.js
+- Checking network and notifications
+- Using firebase for simple data
+- Great UI/UX for training
+- Using Getx for state management
+- Ability to store Courses and Courses history in local storage by GetStorage
+- Simple animation in some pages
